@@ -131,7 +131,7 @@ The accompanying AI Usage and Sources Log documents the tools used and the verif
 
 ## 10. Disclaimer
 
-This project was prepared for academic and equity research purposes as part of the Bears and Bulls 7.0 competition at Christ University.
+This project was prepared for academic and equity research purposes as part of the Bears and Bulls 7.0 competition hosted by IIM Vizag.
 
 Financial projections, valuation assumptions and investment conclusions represent the research and estimates of the team. They should not be interpreted as investment advice or a recommendation to buy or sell securities.
 
